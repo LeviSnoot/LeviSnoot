@@ -12,9 +12,9 @@
 <p align="center">
     <a href="https://en.pronouns.page/he&they" alt="Pronouns">
         <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/612a8abf8ba6fe6c3e1da407&style=for-the-badge&colorA=F331A2&colorB=C71585" /></a>
-    <a href="">
+    <a href="#">
         <img src="https://img.shields.io/static/v1?label=%F0%9F%87%AC%F0%9F%87%A7&message=English&colorA=F33158&colorB=CF1B2B&style=for-the-badge" /></a>
-    <a href="">
+    <a href="#">
         <img src="https://img.shields.io/static/v1?label=%F0%9F%87%B8%F0%9F%87%AA&message=Swedish&colorA=3197F3&colorB=006AA7&style=for-the-badge" /></a>
 </p>
 <p align="center">
