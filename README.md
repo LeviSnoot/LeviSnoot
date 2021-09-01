@@ -15,6 +15,8 @@ I'm Levi, a novice unix user. Learning NGINX & Arch Linux currently.
         <img src="https://img.shields.io/static/v1?label=%F0%9F%87%AC%F0%9F%87%A7&message=English&color=CF1B2B&style=for-the-badge" /></a>
     <a href="">
         <img src="https://img.shields.io/static/v1?label=%F0%9F%87%B8%F0%9F%87%AA&message=Swedish&color=006AA7&style=for-the-badge" /></a>
+</p>
+<p align="center">
     <a href="https://www.twitch.tv/levisnoot" alt="Twitch">
         <img src="https://img.shields.io/twitch/status/levisnoot?color=9146FF&style=for-the-badge" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=LeviSnoot" alt="Follow on Twitter">
@@ -22,5 +24,7 @@ I'm Levi, a novice unix user. Learning NGINX & Arch Linux currently.
     <a href="http://lev1.ml/discord" alt="Discord Server">
         <img src="https://img.shields.io/discord/696045001070870568?color=5865F2&style=for-the-badge" /></a>
     <a href="https://levi.land">
+</p>
+<p align="center">
         <img src="https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge" alt="Website"></a>
 </p>
