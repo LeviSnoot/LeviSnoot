@@ -12,7 +12,7 @@ I'm Levi, a novice unix user. Learning NGINX & Arch Linux currently.
     <a href="https://en.pronouns.page/he&they" alt="Pronouns">
         <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/612a8abf8ba6fe6c3e1da407&style=for-the-badge&color=C71585" /></a>
     <a href="">
-        <img src="https://img.shields.io/static/v1?label=🇬🇧&message=English&color=CF1B2B&style=for-the-badge" /></a>
+        <img src="https://img.shields.io/static/v1?label=%F0%9F%87%AC%F0%9F%87%A7&message=English&color=CF1B2B&style=for-the-badge" /></a>
     <a href="">
         <img src="https://img.shields.io/static/v1?label=%F0%9F%87%B8%F0%9F%87%AA&message=Swedish&color=006AA7&style=for-the-badge" /></a>
     <a href="https://www.twitch.tv/levisnoot" alt="Twitch">
