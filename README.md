@@ -1,7 +1,8 @@
 # Hey!
 
+<p align="center">
 I'm Levi, a novice unix user. Learning NGINX & Arch Linux currently.
-
+</p>
 <p align="center">
   <a href="https://levi.land">
     <img src="https://levi.land/wp-content/uploads/2020/11/levi-silhouette.svg"
