@@ -24,8 +24,12 @@
         <img src="https://img.shields.io/twitter/follow/LeviSnoot?colorA=31BCF3&colorB=1CA0F1&logo=Twitter&logoColor=white&style=for-the-badge" /></a>
     <a href="http://lev1.ml/discord" alt="Discord Server">
         <img src="https://img.shields.io/discord/696045001070870568?label=Discord&logo=Discord&logoColor=white&colorA=317BF3&colorB=5865F2&style=for-the-badge" /></a>
-    <a href="https://levi.land">
 </p>
 <p align="center">
+  <a href="https://levi.land">
         <img src="https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044" alt="Website"></a>
+</p>
+<p align="center">
+  <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=LeviSnoot&hide=stars&theme=dark" alt="GitHub stats"></a>
 </p>
