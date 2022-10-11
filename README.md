@@ -41,10 +41,9 @@
 
 ![](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Windows%20Terminal-4d4d4d?logo=windowsterminal&logoColor=fff&style=for-the-badge)
+[![Website](https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044)](https://levi.land)
 
 ## Other:
-
-[![Website](https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044)](https://levi.land)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviSnoot&hide=stars&theme=dark)](#)[](https://discord.com/users/86612175073869824)
 
