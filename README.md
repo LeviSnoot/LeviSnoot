@@ -10,6 +10,8 @@
 [![](https://img.shields.io/twitter/follow/LeviSnoot?colorA=31BCF3&colorB=1CA0F1&logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=LeviSnoot)
 [![](https://img.shields.io/discord/696045001070870568?label=Discord&logo=Discord&logoColor=white&colorA=317BF3&colorB=5865F2&style=for-the-badge)](http://lev1.ml/discord)
 
+[![Website](https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044)](https://levi.land)
+
 ## Learning:
 [![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)](https://debian.org/)
@@ -41,7 +43,6 @@
 
 ![](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Windows%20Terminal-4d4d4d?logo=windowsterminal&logoColor=fff&style=for-the-badge)
-[![Website](https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044)](https://levi.land)
 
 ## Other:
 
