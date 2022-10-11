@@ -33,3 +33,7 @@
   <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=LeviSnoot&hide=stars&theme=dark" alt="GitHub stats"></a>
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/86612175073869824)](https://discord.com/users/86612175073869824)
+
+[![Last.fm Activity](https://toru.kio.dev/api/v1/levisnoot/?theme=dark)](https://last.fm/user/levidragon)
