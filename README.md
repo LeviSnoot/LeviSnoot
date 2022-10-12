@@ -12,6 +12,11 @@
 
 [![Website](https://img.shields.io/badge/Website-levi.land-cf0044?style=for-the-badge&colorA=F3314A&colorB=cf0044)](https://levi.land)
 
+## Planning to learn (2023):
+[![](https://img.shields.io/badge/.NET-512bd4?logo=dotnet&logoColor=fff&style=for-the-badge)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/Visual%20Studio-5c2d91?logo=visualstudio&logoColor=fff&style=for-the-badge)](https://visualstudio.microsoft.com/)
+
 ## Learning:
 [![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)](https://debian.org/)
