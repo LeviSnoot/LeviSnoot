@@ -48,8 +48,6 @@
 
 ## Other:
 
-[![](https://github-readme-stats.vercel.app/api?username=LeviSnoot&hide=stars&theme=dark)](#)[](https://discord.com/users/86612175073869824)
-
 [![](https://lanyard.cnrad.dev/api/86612175073869824)](https://discord.com/users/86612175073869824)
 
 [![](https://toru.kio.dev/api/v1/levidragon?theme=dark)](https://last.fm/user/levidragon)
