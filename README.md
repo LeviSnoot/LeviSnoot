@@ -20,7 +20,6 @@
 
 [![](https://img.shields.io/badge/Git-E%2A-F05032?logo=git&logoColor=fff&style=for-the-badge&colorA=F05032&colorB=d6462b)](https://git-scm.com/)
 [![](https://img.shields.io/badge/JavaScript-F%2B%2A-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge&colorA=F7DF1E&colorB=e6cb02)](https://javascript.com/)
-[![](https://img.shields.io/badge/Manjaro-D%2B%2A-35BF5C?logo=manjaro&logoColor=fff&style=for-the-badge&colorA=35BF5C&colorB=22a848)](https://manjaro.org/)
 
 
 [![](https://img.shields.io/badge/Node%2Ejs-E%2B%2A-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge&colorA=339933&colorB=219121)](https://nodejs.org/)
